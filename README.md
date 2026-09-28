@@ -4,7 +4,7 @@ Interactive Excel dashboard analysing a full year of retail data (Jan–Dec 2025
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard-1.png)
+[![Dashboard Overview](dashboard-1.png)](https://github.com/Prachi217/Dmart-sales-dashboard/commit/2e80246b6f2ba2d509e96cbc5012bec55de6fb21)
 
 ## Dataset
 
